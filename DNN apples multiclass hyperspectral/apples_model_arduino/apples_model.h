@@ -2,6 +2,6 @@
 #define APPLES_MODEL_H_
 
 extern const unsigned char apples_model_tflite[];
-extern const unsigned int apples_model_tflite_len;
+extern const int apples_model_tflite_len;
 
 #endif 
