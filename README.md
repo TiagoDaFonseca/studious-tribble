@@ -1,2 +1,2 @@
 # studious-tribble
-List of Research Notebooks
+List of research jupyter notebooks
